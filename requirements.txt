@@ -1,0 +1,9 @@
+opencv-python
+pycryptodome
+pyotp
+cryptography
+pytest
+selenium
+flask
+tkinter
+pyqt5
